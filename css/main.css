@@ -1,0 +1,51 @@
+.main-wrapper{
+	margin-bottom: 60px;
+}
+.bloq-result{
+	position: fixed;
+    bottom: 0%;
+    height: 110px;
+    background: #1E2B6C;
+    z-index: 999;
+    padding: 20px;
+    width: 100%;
+}
+.div-points-ambultation{
+	display: flex;
+	margin-top: 10px;
+}
+.bloq-result p{
+	color: #ffffff;
+	font-weight: bold;
+}
+.div-points{
+	text-align: center;
+}
+.points-result{
+	font-size: 20px;
+}
+.detail-result{
+	font-size: 15px;
+}
+.seleted-text-bloq2{
+	background-color: #A0F699 !important
+}
+#result p{
+	display: inline-block;
+}
+.opt-seleted{
+	background-color: #A0F699 !important;
+}
+.dropdownback.pyramidal{
+	background: transparent !important;
+}
+#body-calculator nav.w-dropdown-list a{
+	width: 97%;
+}
+.div-ambulation-score,
+.div-fs-score,
+.div-points{
+	display: block;
+	width: 100%;
+}
+
